@@ -1,4 +1,4 @@
-![Screenshot (132)](https://github.com/nithiishkumarb/Quiz-Using-HTML-CSS-JS/assets/134282957/3f5ec867-b538-4d75-8f2c-5130997ebdea)# Quiz Website
+# Quiz Website
 
 This project is a quiz website developed using HTML, CSS, and JavaScript. It allows users to take quizzes on various topics and receive instant feedback on their answers.
 
@@ -16,7 +16,7 @@ This project is a quiz website developed using HTML, CSS, and JavaScript. It all
 
 *Sample question*
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot (131)](https://github.com/nithiishkumarb/Quiz-Using-HTML-CSS-JS/assets/134282957/c8c76e3a-e697-4abf-b1e3-75bb2af92f87)
 
 *Results*
 
